@@ -1,1 +1,1 @@
-FROM openresty/openresty:alpine-fat
+FROM openresty/openresty:alpine
