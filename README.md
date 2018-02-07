@@ -4,7 +4,7 @@
 基于官方镜像 Based Official Image
 
 ```bash
-    openresty/openresty
+    openresty/openresty:alpine
 ```
 
 
