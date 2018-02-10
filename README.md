@@ -26,7 +26,6 @@ docker pull registry.cn-beijing.aliyuncs.com/songshenzong/openresty
 ```
 
 
-
 ##### 阿里云经典内网 Alibaba Cloud Intranet
 
 ```bash
